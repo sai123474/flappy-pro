@@ -21,7 +21,7 @@ canvas {
 button {
     padding: 12px 25px;
     font-size: 18px;
-    border: none;
+    border: 1;
     background: orange;
     color: white;
     border-radius: 10px;
