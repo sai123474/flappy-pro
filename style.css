@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    font-family: Arial;
+    text-align: center;
+    background: black;
+}
+
+canvas {
+    display: none;
+    margin: auto;
+    background-size: cover;
+}
+
+#startScreen, #gameOverScreen {
+    position: absolute;
+    width: 100%;
+    top: 40%;
+}
+
+button {
+    padding: 12px 25px;
+    font-size: 18px;
+    border: none;
+    background: orange;
+    color: white;
+    border-radius: 10px;
+}
