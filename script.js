@@ -15,7 +15,7 @@ const birdImg = new Image();
 birdImg.src = "assets/bird.jpg";
 
 const pipeImg = new Image();
-pipeImg.src = "assets/pipe.png";
+pipeImg.src = "assets/bird.jpg";
 
 const bgImg = new Image();
 bgImg.src = "assets/bg.jpg";
