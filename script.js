@@ -24,9 +24,9 @@ const splatterImg = new Image();
 splatterImg.src = "assets/blood.png"; // transparent splatter PNG
 
 // Sounds
-const jumpSound = new Audio("assets/jump.mp3");
+const jumpSound = new Audio("assets/jump.m4a");
 const hitSound = new Audio("assets/hit.m4a");
-const pointSound = new Audio("assets/point.mp3");
+const pointSound = new Audio("assets/point.m4a");
 
 let bird, pipes, score, highScore;
 
