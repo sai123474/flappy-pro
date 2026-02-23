@@ -18,7 +18,7 @@ const pipeImg = new Image();
 pipeImg.src = "assets/pipe.png";
 
 const bgImg = new Image();
-bgImg.src = "assets/bg.png";
+bgImg.src = "assets/bg.jpg";
 
 const splatterImg = new Image();
 splatterImg.src = "assets/blood.png"; // transparent splatter PNG
