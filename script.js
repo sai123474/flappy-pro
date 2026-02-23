@@ -12,7 +12,7 @@ let splatters = [];
 
 // Images
 const birdImg = new Image();
-birdImg.src = "assets/bird.png";
+birdImg.src = "assets/bird.jpeg";
 
 const pipeImg = new Image();
 pipeImg.src = "assets/pipe.png";
